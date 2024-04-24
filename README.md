@@ -2,7 +2,7 @@
 
 ## A Computer Science Student
 
-![Profile views](https://gpvc.arturio.dev/dcollins123) 
+![](https://komarev.com/ghpvc/?username=dcollins123)
 
 - 🔭 Ask me about C++, Java, Python, SQL
 
