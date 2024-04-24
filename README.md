@@ -8,19 +8,12 @@
 
 
 ### Languages and Tools:
-
-<a href="https://java.com">
-  <img align="left" alt="Java" width="26px" src="URL_to_Java_icon" />
-</a>
-<a href="https://cplusplus.com">
-  <img align="left" alt="C++" width="26px" src="URL_to_C++_icon" />
-</a>
-<a href="https://python.org">
-  <img align="left" alt="Python" width="26px" src="URL_to_Python_icon" />
-</a>
-<a href="https://mysql.com">
-  <img align="left" alt="SQL" width="26px" src="URL_to_SQL_icon" />
-</a>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" height="50" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height="50" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="50" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" height="50" />
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcollins123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
