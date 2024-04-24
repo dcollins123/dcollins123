@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dcollins123)
 
-- 🔭 Ask me about C++, Java, Python, SQL
+- 🔭 Ask me about Java, C++, Python, SQL
 
 
 ### Languages and Tools:
