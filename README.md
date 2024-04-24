@@ -9,10 +9,21 @@
 
 ### Languages and Tools:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+<a href="https://java.com">
+  <img align="left" alt="Java" width="26px" src="URL_to_Java_icon" />
+</a>
+<a href="https://cplusplus.com">
+  <img align="left" alt="C++" width="26px" src="URL_to_C++_icon" />
+</a>
+<a href="https://python.org">
+  <img align="left" alt="Python" width="26px" src="URL_to_Python_icon" />
+</a>
+<a href="https://mysql.com">
+  <img align="left" alt="SQL" width="26px" src="URL_to_SQL_icon" />
+</a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcollins123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dcollins123&show_icons=true)
 
