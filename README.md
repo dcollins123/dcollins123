@@ -4,16 +4,9 @@ A 3rd year Computer Science Student
 
 ![](https://komarev.com/ghpvc/?username=dcollins123)
 
-- 🔭 Ask me about Java, C++, Python, SQL
-
 
 ### Languages and Tools:
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" height="50" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height="50" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="50" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" height="50" />
-</p>
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 26px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 26px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 26px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcollins123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
