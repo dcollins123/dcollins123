@@ -11,8 +11,6 @@ A 3rd year Computer Science Student
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcollins123&layout=compact)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcollins123&layout=compact&size_weight=0.5&count_weight=0.5&hide=html)
 
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcollins123&show_icons=true&theme=algolia)
