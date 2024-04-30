@@ -15,3 +15,5 @@ A 3rd year Computer Science Student
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dcollins123&show_icons=true)
 
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcollins123&show_icons=true&theme=radical)
+
