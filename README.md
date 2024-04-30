@@ -14,4 +14,3 @@ A 3rd year Computer Science Student
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcollins123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dcollins123&show_icons=true)
-
