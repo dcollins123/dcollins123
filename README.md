@@ -9,7 +9,7 @@ A 3rd year Computer Science Student
 
 <div style="display: flex;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 26px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 26px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 26px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div> 
 
-[![My Skills](https://skillicons.dev/icons?i=fortran)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fortran,maven,spring)](https://skillicons.dev)
 
 <br>
 
