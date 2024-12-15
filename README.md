@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dan Collins
 
-A 3rd year Computer Science Student
+A 4th year Computer Science Student
 
 ![](https://komarev.com/ghpvc/?username=dcollins123)
 
